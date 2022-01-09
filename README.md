@@ -1,5 +1,5 @@
 # Investigatory-Project-2019
-This was written by myself for my final exam and as part of graduation from the Computer Science course at my high school
+This was written by myself for my final exam and as part of graduation from the Computer Science course at my high school.
 
 This project implements class objects and data file handling concepts to create, read and modify the periodic table as a binary file.
 
